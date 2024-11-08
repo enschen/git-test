@@ -1,0 +1,4 @@
+toto je muj prvni commit
+commit ve vetvi branch2
+
+
