@@ -1,8 +1,7 @@
 toto je muj prvni commit
-<<<<<<< HEAD
 commit je hlavni vetvi
-=======
 commit ve vetvi branch2
 
 
->>>>>>> branch2
+commit v hlavni vetvi
+commit ve vetvi branch1
